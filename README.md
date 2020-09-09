@@ -1,12 +1,5 @@
-# A simple starter kit for Eleventy
-
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend it for yourself.
-
-Get started now by **[deploying Hylia to Netlify.][deploy-to-netlify]**
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)][deploy-to-netlify]
-
-<img src="https://hankchizljaw.imgix.net/hylia-github.jpg?auto=format&q=60" width="550" />
+# Art & Money
+Art & Money is a finance blog for artists, independent contractors, and 1099-folks. It's based on Hylia and configured to use NetlifyCMS.
 
 ## Features
 
